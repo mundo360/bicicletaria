@@ -1,0 +1,94 @@
+#: locale=pt
+
+## Action
+
+### URL
+WebFrame_A521021F_8D8C_37E4_41D3_AAB5C1FB642F.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3838.3152736263746!2d-47.98104892573391!3d-15.840018684806719!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a31c34e1c23a3%3A0x2c93258673a538df!2sBICICLETARIA!5e0!3m2!1spt-BR!2sbr!4v1690302790071!5m2!1spt-BR!2sbr
+WebFrame_A56BEC6D_8D84_2C24_41E1_9F7905E877DD.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3838.3152736263746!2d-47.98104892573391!3d-15.840018684806719!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a31c34e1c23a3%3A0x2c93258673a538df!2sBICICLETARIA!5e0!3m2!1spt-BR!2sbr!4v1690302790071!5m2!1spt-BR!2sbr
+LinkBehaviour_A62EDBFF_8D8C_3424_41E1_026CE3235B71.source = https://www.instagram.com/bicicletariaservicos/
+LinkBehaviour_A18FAA46_8D8C_1462_41DF_A40A9360DA41.source = https://www.instagram.com/bicicletariaservicos/
+LinkBehaviour_A7A568A5_8D8C_3424_41D4_0AADE2F95AF1.source = wa.me/5561986275088
+LinkBehaviour_A46DC41D_8D84_F3E4_4187_5B30D09E6D56.source = wa.me/5561986275088
+LinkBehaviour_A1ED29F9_8D8C_F42C_41CE_8E89D7A45E54.source = wa.me/5561986275088
+LinkBehaviour_A7C73D11_8D9C_2DFC_41DB_C223243839A7.source = wa.me/5561986275088
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_A6DE82AC_8DBC_3425_41C3_491E60827A23.text = Entre e Conheça
+HotspotPanoramaOverlayTextImage_A546699A_8D84_34EC_4181_6B730D8A00DA.text = Instruções
+
+## Media
+
+### Audio
+audiores_A0C9E746_8D7C_1C64_41D7_1E90D4CC9609.mp3Url = media/audio_A5207C52_8D8D_EC7C_41E1_78DF04E40DBF_pt.mp3
+audiores_AE52B86B_8D84_742C_41D6_4170D8CC224E.mp3Url = media/audio_ACBAEC3A_8DFC_6C2C_41E1_073BF42242D7_pt.mp3
+audiores_AE01804C_8D84_3464_41C3_4BE257720C01.mp3Url = media/audio_AD417150_8DFC_147C_41B8_43EE1989D5F6_pt.mp3
+
+### Image
+imlevel_A16F129A_8D7C_34EC_41B6_DD965E17D19F.url = media/panorama_9F8E5C08_8D84_73EC_41B1_EB6BCF466488_HS_5krprl8a_pt.png
+imlevel_A18B124B_8D7C_346C_41D7_CB81FCB83B5D.url = media/panorama_9F8E5C08_8D84_73EC_41B1_EB6BCF466488_HS_fc8685x2_pt.png
+
+### Title
+panorama_9F8E43FA_8D84_142C_41D1_27AA74C205E9.label = Acesso Escada
+panorama_9F8E9FFA_8D84_2C2C_41A5_665966CF7B0F.label = Acesso Oficina
+panorama_9F8E27EA_8D84_3C2C_41C1_3342F287F9A6.label = Atendimento
+panorama_9F8EBC5C_8D84_EC64_41C1_8DBAFAB8B210.label = Atendimento 2
+panorama_9EE66F91_8D8C_6CFF_41D1_B83C69615B43.label = Entrada
+panorama_9F867338_8D84_142C_41C7_9D0DE90F7516.label = Entrada 2
+panorama_9F8E5C08_8D84_73EC_41B1_EB6BCF466488.label = Fachada
+panorama_9F8E7028_8D84_342C_41C1_33C18D221413.label = Mostruário Bikes
+panorama_9F8E6CC8_8D84_2C6D_41DC_F95420867A8A.label = Mostruário Bikes 2
+panorama_9F8F8DC9_8D84_EC6C_41D9_622E4B54CCBC.label = Oficina
+panorama_9F8E50CE_8D84_1464_41E1_721AB4D7EAB1.label = Peças e Acessorios
+panorama_9F8F134D_8D84_1464_416F_1C31DF1AA8F1.label = Vestuario e Peças
+panorama_9F8E01B4_8D84_1424_41E1_1945275CD9D2.label = Vestuário
+panorama_9F8FAA88_8D84_14EC_41D8_D8A438874A48.label = centro Loja
+
+## Skin
+
+### Button
+Button_A7C4B14E_8D8C_1464_41CD_C3C8113ECA66.label = fale conosco via whatsapp
+Button_A46D341D_8D84_F3E4_41C0_6A23AF371546.label = fale conosco via whatsapp
+
+### Image
+Image_833AAAAC_8D84_3424_41D7_8C869346423B_mobile.url = skin/Image_833AAAAC_8D84_3424_41D7_8C869346423B_mobile_pt.png
+Image_833AAAAC_8D84_3424_41D7_8C869346423B.url = skin/Image_833AAAAC_8D84_3424_41D7_8C869346423B_pt.png
+Image_A7C5514E_8D8C_1464_41D6_CD417EC87F28.url = skin/Image_A7C5514E_8D8C_1464_41D6_CD417EC87F28_pt.png
+Image_AA974A98_8DBB_F4EC_41E0_7211BF414FB6.url = skin/Image_AA974A98_8DBB_F4EC_41E0_7211BF414FB6_pt.png
+Image_AA977A98_8DBB_F4EC_41DD_F46FEB3F2307.url = skin/Image_AA977A98_8DBB_F4EC_41DD_F46FEB3F2307_pt.png
+Image_AAAB3DF5_8DBC_2C24_41CC_C85C4FD7E29F.url = skin/Image_AAAB3DF5_8DBC_2C24_41CC_C85C4FD7E29F_pt.png
+
+### Label
+Label_82F3418E_8D84_14E4_41D0_77729687380C.text = Bicicletaria - Tour Virtual 360
+Label_82F3418E_8D84_14E4_41D0_77729687380C_mobile.text = Bicicletaria - Tour Virtual 360
+
+### Multiline Text
+HTMLText_A7D67C21_8D84_73DC_41D1_3290C30E7794.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.140000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.341534008683071vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.34vh;font-family:'Bebas Neue Bold';">Lista de fotos :</SPAN></SPAN></DIV></div>
+HTMLText_A46D441D_8D84_F3E4_41CB_B9E41E3882A4.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.830000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.83vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5vh;font-family:'Bebas Neue Bold';">Bicicletaria</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.5vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.5vh;font-family:'Bebas Neue Bold';">A melhor loja de Bicicletas do Guará</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.72vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.72vh;font-family:'Bebas Neue Bold';"><B>localização: </B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.34375vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.34vh;font-family:'Bebas Neue Bold';"><B>Guará II QE 30 Casa 04 - Guará, Brasília - DF, 71065-190</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.72vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.72vh;font-family:'Bebas Neue Bold';"><B>contato: 61-3385960 ou 61-986275088</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.72vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.72vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff0000;font-size:2.72vh;font-family:'Bebas Neue Bold';"><B>Buscamos sua bike em sua residência</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_A7C4A14E_8D8C_1464_41C4_FF4EDA80D573.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.830000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.83vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.740000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.74vh;font-family:'Bebas Neue Bold';">Bicicletaria</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.4799999999999995vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.48vh;font-family:'Bebas Neue Bold';">A melhor loja de Bicicletas do Guará</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.72vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.72vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.72vh;font-family:'Bebas Neue Bold';"><B>localização: </B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.72vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.72vh;font-family:'Bebas Neue Bold';">Guará II QE 30 Casa 04 - Guará, Brasília - DF, 71065-190</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.72vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.72vh;font-family:'Bebas Neue Bold';"><B>contato: 61-3385960 ou 61-986275088</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.72vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff0000;font-size:2.72vh;font-family:'Bebas Neue Bold';"><B>Buscamos sua bike em sua residência</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_A56BCC6D_8D84_2C24_4192_FC0733679C5F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.6562500000000004vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.66vh;font-family:'Bebas Neue Bold';"><B>Localização Bicicletaria</B></SPAN></SPAN></DIV></div>
+HTMLText_A786D5FA_8D84_1C2D_41BB_D62C4820A56C.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.34375vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.34vh;font-family:'Oswald';"><B>LISTA DE FOTOS</B></SPAN></SPAN></DIV></div>
+
+### Tooltip
+IconButton_81DCA975_8D7C_1427_41D7_6674C73E7286_mobile.toolTip = ACTIVATE VR MODE (MOBILE ONLY)
+IconButton_81DCA975_8D7C_1427_41D7_6674C73E7286.toolTip = ACTIVATE VR MODE (MOBILE ONLY)
+IconButton_81DAE978_8D7C_142D_41B8_C62E14904762_mobile.toolTip = PANORAMA LIST
+IconButton_81DAE978_8D7C_142D_41B8_C62E14904762.toolTip = PANORAMA LIST
+IconButton_81DAF978_8D7C_142D_41CC_7C7BF6831491.toolTip = PHOTO ALBUM
+IconButton_81DAF978_8D7C_142D_41CC_7C7BF6831491_mobile.toolTip = PHOTO ALBUM
+IconButton_9E778C68_8D84_EC2C_41DC_B8A90C02CF95_mobile.toolTip = PHOTO ALBUM
+IconButton_9E778C68_8D84_EC2C_41DC_B8A90C02CF95.toolTip = PHOTO ALBUM
+IconButton_81DAB979_8D7C_142F_41C6_49F15FE15FF0.toolTip = SHOW FLOORPLANS
+IconButton_81DAA979_8D7C_142F_41BD_1D49E3D0C179.toolTip = SHOW FLOORPLANS
+IconButton_81DA9978_8D7C_142D_41BE_372F4085D7DD.toolTip = SHOW FLOORPLANS
+IconButton_81DA9978_8D7C_142D_41BE_372F4085D7DD_mobile.toolTip = SHOW FLOORPLANS
+IconButton_81DAA979_8D7C_142F_41BD_1D49E3D0C179_mobile.toolTip = SHOW FLOORPLANS
+IconButton_81DAB979_8D7C_142F_41C6_49F15FE15FF0_mobile.toolTip = SHOW FLOORPLANS
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Bicicletaria - Tour Virtual
